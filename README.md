@@ -1,4 +1,11 @@
-### Hi there 👋
+### Привет! Я Сергей, frontend-разработчик
+
+- Оттачиваю имеющиеся навыки, изучаю новые технологии;
+- Пишу свои небольшие проекты.
+
+### Мои навыки
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-15559e?style=for-the-badge&logo=JavaScript)
 
 <!--
 **Shar1892/Shar1892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
