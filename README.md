@@ -19,8 +19,8 @@
 
 ### Мои контакты
 
-E-mail: Shar1892@yandex.ru
-Telegram: https://t.me/Shar1957
+- E-mail: Shar1892@yandex.ru
+- Telegram: https://t.me/Shar1957
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shar1892&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
