@@ -1,7 +1,7 @@
 ### Привет! Я Сергей, frontend-разработчик
 
-- Оттачиваю имеющиеся навыки, изучаю новые технологии;
-- Пишу свои небольшие проекты.
+- Оттачиваю имеющиеся навыки, изучаю новые технологии
+- Пишу свои проекты
 
 ### Мои навыки
 
@@ -16,6 +16,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma)
+
+### Мои контакты
+
+E-mail: Shar1892@yandex.ru
+Telegram: https://t.me/Shar1957
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shar1892&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
